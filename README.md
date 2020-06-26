@@ -8,10 +8,10 @@
 
 # github部署
 - 新建一个 Repository
-- 下源码至本地，git提交代码至远程仓库，即建好的 Repository
+- 下源码至本地，git 提交代码至远程仓库，即建好的 Repository
 - 在仓库 setting 里面更改 githubPages 中的 source 为 master branch
 
-
+![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
 
 
 
@@ -20,3 +20,4 @@
 
 
 【参考文献】：https://blog.csdn.net/qq_44867340/article/details/106961762?utm_source=app
+
