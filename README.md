@@ -12,9 +12,9 @@
 - 在仓库 setting 里面更改 githubPages 中的 source 为 master branch
 
 
-![one](https://github.com/AXYZdong/love-you/blob/master/order1.png)
-![two](https://github.com/AXYZdong/love-you/blob/master/order2.png)
-![three](https://github.com/AXYZdong/love-you/blob/master/order3.png)
+![one](https://github.com/AXYZdong/love-you/blob/master/image-folder/order1.png)
+![two](https://github.com/AXYZdong/love-you/blob/master/image-folder/order2.png)
+![three](https://github.com/AXYZdong/love-you/blob/master/image-folder/order3.png)
 
 
 
