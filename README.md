@@ -11,9 +11,10 @@
 - 下源码至本地，git 提交代码至远程仓库，即建好的 Repository
 - 在仓库 setting 里面更改 githubPages 中的 source 为 master branch
 
-![Image text](https://github.com/AXYZdong/love-you/blob/master/order1.png)
-![Image text](https://github.com/AXYZdong/love-you/blob/master/order2.png)
-![Image text](https://github.com/AXYZdong/love-you/blob/master/order3.png)
+
+![one](https://github.com/AXYZdong/love-you/blob/master/order1.png)
+![two](https://github.com/AXYZdong/love-you/blob/master/order2.png)
+![three](https://github.com/AXYZdong/love-you/blob/master/order3.png)
 
 
 
